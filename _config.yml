@@ -1,0 +1,18 @@
+title: stable-retro
+description: Train Machine Learning algorithms on games
+show_downloads: true
+google_analytics:
+logo:
+
+email: mathieu.poliquin@gmail.com
+url: "https://www.stableretro.com"
+
+github:
+  repository_url: https://github.com/MatPoliquin/stable-retro
+
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
