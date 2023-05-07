@@ -7,7 +7,7 @@ A fork of gym-retro ('lets you turn classic video games into Gym environments fo
 Since gym-retro is in maintenance now and doesn't accept new games, plateforms or bug fixes, you can instead submit PRs with new games or features here in stable-retro.
 
 
-Installation:
+Installation Ubuntu/Windows/MacOS:
 ```bash
 pip install git+https://github.com/MatPoliquin/stable-retro.git
 ```
@@ -21,6 +21,8 @@ Join the Discord channel if you have questions, suggestions or want to participa
 
 Tutorials:
 
-Integration tool tutorial: [https://youtube.com/playlist?list=PLmwlWbdWpZVtH6NXqWbrnWOf6SWv9nJBY](https://youtube.com/playlist?list=PLmwlWbdWpZVtH6NXqWbrnWOf6SWv9nJBY)
+*   [Train models on Windows WSL2](https://www.youtube.com/watch?v=LRgGSQGNZeE)
+*   [Integration tool tutorial](https://youtube.com/playlist?list=PLmwlWbdWpZVtH6NXqWbrnWOf6SWv9nJBY)
+*   [New Emulator Integration Tutorial](https://github.com/openai/retro/issues/169)
 
 ![hang-on](./assets/hang-on.gif)
