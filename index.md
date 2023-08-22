@@ -24,6 +24,9 @@ Join the *Discord channel* if you have questions, suggestions or want to partici
 *   [Integration tool tutorial](https://youtube.com/playlist?list=PLmwlWbdWpZVtH6NXqWbrnWOf6SWv9nJBY)
 *   [New Emulator Integration Tutorial](https://github.com/openai/retro/issues/169)
 
+## Examples
+[https://github.com/MatPoliquin/stable-retro-scripts](https://github.com/MatPoliquin/stable-retro-scripts)
+
 ## Supported Games and Plateforms
 
 ![hang-on](./assets/hang-on.gif)
@@ -42,6 +45,10 @@ Current plateforms:
 *   Sega GameGear (via Genesis Plus GX)
 *   Sega Genesis/Mega Drive (via Genesis Plus GX)
 *   Sega Master System (via Genesis Plus GX)
+*   Sega 32x
+*   Sega CD
+*   Sega Saturn
+*   Arcade Hardware supported by FBNeo
 
 
 
