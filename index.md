@@ -20,7 +20,7 @@ Join the *Discord channel* if you have questions, suggestions or want to partici
 
 ## Tutorials
 
-*   [Integration tool tutorial](https://youtube.com/playlist?list=PLmwlWbdWpZVtH6NXqWbrnWOf6SWv9nJBY)
+*   [Game Integration tool tutorial](https://www.youtube.com/watch?v=lPYWaUAq_dY&list=PLmwlWbdWpZVvWqzOxu0jVBy-CaRpYha0t)
 *   [New Emulator Integration Tutorial](https://www.videogames.ai/2023/06/22/Integrate-emulator-stable-retro.html)
 
 ## Examples
