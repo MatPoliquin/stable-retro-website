@@ -3,8 +3,11 @@ layout: default
 tags: [stable-retro, machine learning, ppo, openai retro, games]
 ---
 
-A fork of gym-retro ('lets you turn classic video games into Gym environments for reinforcement learning with additional games').
-Since gym-retro is in maintenance now and doesn't accept new games, plateforms or bug fixes, you can instead submit PRs with new games or features here in stable-retro: [Github repo](https://github.com/Farama-Foundation/stable-retro)
+A maintained fork of gym-retro ('lets you turn classic video games into Gym environments for reinforcement learning').
+
+Since gym-retro is in maintenance now and doesn't accept new games, plateforms or bug fixes, you can instead submit PRs with new games or features here in stable-retro:
+
+[https://github.com/Farama-Foundation/stable-retro](https://github.com/Farama-Foundation/stable-retro)
 
 
 ## Installation Ubuntu/Windows/MacOS:
