@@ -20,17 +20,16 @@ Join the *Discord channel* if you have questions, suggestions or want to partici
 
 ## Tutorials
 
-*   [Train models on Windows WSL2](https://www.youtube.com/watch?v=LRgGSQGNZeE)
 *   [Integration tool tutorial](https://youtube.com/playlist?list=PLmwlWbdWpZVtH6NXqWbrnWOf6SWv9nJBY)
-*   [New Emulator Integration Tutorial](https://github.com/openai/retro/issues/169)
+*   [New Emulator Integration Tutorial](https://www.videogames.ai/2023/06/22/Integrate-emulator-stable-retro.html)
 
 ## Examples
+
+Train models on retro games and pit two models against each other on PvP retro games such as NHL94, Mortal Kombat or WWF Wrestlemania: The Arcade Game
 [https://github.com/MatPoliquin/stable-retro-scripts](https://github.com/MatPoliquin/stable-retro-scripts)
 
+
 ## Supported Games and Plateforms
-
-![hang-on](./assets/hang-on.gif)
-
 
 You can get the full list of games [here!](https://github.com/MatPoliquin/stable-retro/tree/master/retro/data/stable) 
 
