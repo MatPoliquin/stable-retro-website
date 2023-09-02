@@ -55,4 +55,4 @@ Current plateforms:
 
 ## RAM maps
 
-*   [NHL94 ram map](./ram_maps/nhl-94-ram-map)
+*   [NHL94 ram map](./nhl-94-ram-map)

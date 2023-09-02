@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title:  "NHL 94 RAM map"
 permalink: /nhl-94-ram-map
 tags: [nhl 94, ram map]
