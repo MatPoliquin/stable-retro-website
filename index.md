@@ -25,8 +25,13 @@ Join the *Discord channel* if you have questions, suggestions or want to partici
 
 *   [Game Integration tool tutorial](https://www.youtube.com/watch?v=lPYWaUAq_dY&list=PLmwlWbdWpZVvWqzOxu0jVBy-CaRpYha0t)
 *   [New Emulator Integration Tutorial](https://www.videogames.ai/2023/06/22/Integrate-emulator-stable-retro.html)
+*   [Windows WSL2 + Ubuntu 22.04 setup guide](https://www.youtube.com/watch?v=vPnJiUR21Og)
 
 ## Examples
+
+NHL94 (1 on 1)           |  Wrestlemania: The Arcade game |  Virtua Fighter 1
+:-------------------------:|:-------------------------:|:-------------------------:
+![screenshot 01](./screenshots/nhl94.png)  |  ![wwf vs](./screenshots/wwf.png) | ![vf](./screenshots/virtua_fighter.png)
 
 Train models on retro games and pit two models against each other on PvP retro games such as NHL94, Mortal Kombat or WWF Wrestlemania: The Arcade Game
 [https://github.com/MatPoliquin/stable-retro-scripts](https://github.com/MatPoliquin/stable-retro-scripts)
