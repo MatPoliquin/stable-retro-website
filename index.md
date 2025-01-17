@@ -36,10 +36,12 @@ NHL94 (1 on 1)           |  Wrestlemania: The Arcade game |  Virtua Fighter 1
 Train models on retro games and pit two models against each other on PvP retro games such as NHL94, Mortal Kombat or WWF Wrestlemania: The Arcade Game
 [https://github.com/MatPoliquin/stable-retro-scripts](https://github.com/MatPoliquin/stable-retro-scripts)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hkOcxJvJVjk?si=W5mXJor3IwZNSEug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## Supported Games and Plateforms
 
-You can get the full list of games [here!](https://github.com/MatPoliquin/stable-retro/tree/master/retro/data/stable) 
+You can get the full list of games [here!](https://github.com/Farama-Foundation/stable-retro/tree/master/retro/data/stable) 
 
 Current plateforms:
 
@@ -56,7 +58,6 @@ Current plateforms:
 *   Sega CD
 *   Sega Saturn
 *   Arcade Hardware supported by FBNeo
-
 
 ## RAM maps
 
